@@ -16,7 +16,7 @@
 
 ## RFP
 
-- [Request for Proposal](https://github.com/)
+- [Request for Proposal](https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md)
 
 ## Repository Topics
 

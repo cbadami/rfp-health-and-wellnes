@@ -34,7 +34,7 @@ Administrators can:
 1. Download all group and challenge data
 1. Share challenge results with group members
 
-Anu user can:
+Any user can:
 
 1. Create and edit a user profile
 1. Accept or reject a group assignment
@@ -267,4 +267,4 @@ Note: Correct functionality is not a requirement change.
 
 ## Source
 
-<https://github.com>
+<https://github.com/cbadami/rfp-health-and-wellness/blob/master/rfp-health-and-wellness.md>
