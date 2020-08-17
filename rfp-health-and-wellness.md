@@ -1,4 +1,4 @@
-# RFP - Hunt Game
+# RFP - Health and Wellness App
 
 ## Statement of Purpose
 
