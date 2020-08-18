@@ -2,7 +2,7 @@
 
 ## Statement of Purpose
 
-We wish to use the popularity of mobile technology to increase student awareness and interest in health and wellness. We are looking for an application that uses mobile devices to encourage users to provide health-related data through fun group challenges and sharing of results. 
+We wish to use the popularity of mobile technology to provide a health promotional service assisting others in tracking their health and wellness progress.  We are looking for an application that uses mobile devices to encourage users to provide health-related data through fun group health and wellness challenges, while also being able to share results.  
 
 ## Vision
 
@@ -13,10 +13,11 @@ We would like to create an app that can be accessed on different mobile devices,
  - Servings of fruit consumed
  - Servings of vegetables consumed
  - Number of calories consumed
+ - Others TBD
 
 Participating users would be assigned to group challenges by an administrator, which would include daily wellness targets. An administrator would also be able to access and monitor the data of all participants, create and modify groups and challenges, and share certain challenge results among group members.
 
-In addition, all users would have the ability to view data from previous challenges in which they have participated.
+In addition, all users would have the ability to view their previous data.
 
 ## Functional Requirements
 
@@ -37,8 +38,10 @@ Administrators can:
 Any user can:
 
 1. Create and edit a user profile
+1. Choose to use the app anonymously, i.e. choose a username that is not the user's real name
 1. Accept or reject a group assignment
 1. Enter, view, and modify personal data as needed
+1. Participate in a challenge individually, i.e. not in a group
 1. View challenge data for the rest of their group
 1. View data from past challenges
 
@@ -59,8 +62,7 @@ user experience principles.
 The app should be responsive, able to work well on various mobile devices 
 from phones to laptops and tablets in various orientations. 
 
-The app should provide a customizable theme using NW Bearcat colors. 
-This theme should be able to be swapped if the app is used at other schools. 
+The app should provide a customizable theme having several color options, one of which should be NW Bearcat colors. 
 
 The app must work on:
 
@@ -88,6 +90,7 @@ DailyLevel (one measurement per category per user per day)
   - servings of fruit
   - servings of vegetables
   - total calories
+  - others...
 
 Group (a group has 0 or more members)
 
